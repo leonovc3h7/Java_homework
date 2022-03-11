@@ -1,0 +1,4 @@
+Customer{id=91efbfb6-fe49-4fa7-b888-208639dd7079; phoneNumber=' +7999111-11-11'; fullName='Первый Пользователь Покупатель'; login=' login1'}
+Customer{id=ebb5a666-578d-486d-8829-0618553a9fe3; phoneNumber='+79992222222'; fullName='Второй Пользователь Покупатель'; login=' login2'}
+Customer{id=052fa4de-6df4-4f02-929c-c2e185f62215; phoneNumber=' +79993333333'; fullName='Третий Пользователь Покупатель'; login=' login3'}
+Customer{id=4fbf839b-274c-42f4-b509-676587c0ea34; phoneNumber=' +799944444-44'; fullName='Четвертый Пользователь Покупатель'; login=' login4'}
